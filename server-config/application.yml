@@ -1,5 +1,5 @@
 # Config data exposed by config server
 
 info:
-  foo: bar
-  someList: [7, 8, 7]
+  foo: test
+  someList: [9, 8, 7]
