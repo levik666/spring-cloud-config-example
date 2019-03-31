@@ -6,7 +6,7 @@ spring:
       server:
         git:
 #          uri: file://${HOME}/Documents/config-repo
-          uri: https://github.com/ericdahl/spring-cloud-config-example
+          uri: https://github.com/levik666/spring-cloud-config-example
 
           # Search in the 'server-config' directory of the repo. This generally wouldn't
           # be used because the configs would be in the root directory, but because
