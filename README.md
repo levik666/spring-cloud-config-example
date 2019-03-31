@@ -8,7 +8,7 @@ basic example of using spring-cloud-config to retrieve configs from a git-backed
 ### Build code
 
 ```bash
-git clone git@github.com:ericdahl/spring-cloud-config-example.git
+git clone git@github.com:levik666/spring-cloud-config-example.git
 cd spring-cloud-config-example
 mvn clean package
 ```
